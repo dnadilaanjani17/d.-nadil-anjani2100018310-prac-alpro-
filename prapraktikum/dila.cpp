@@ -4,6 +4,7 @@ using namespace std;
 int main (){
 	char Hasil;
 	float P,Q,C;
+	cout<<"PROGRAM KALKULATOR SEDERHANA"<<endl<<endl;
 	cout << "SILAHKAN PILIH MENU YANG ANDA INGINKAN\n";
 	cout << " \t1. PERTAMBAHAN \n";
 	cout << " \t2. PENGURANGAN \n";
