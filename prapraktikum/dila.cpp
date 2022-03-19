@@ -37,5 +37,7 @@ int main (){
 	else {
 		cout << "Pilihan tidak tersedia";
 	}
+	
+	cout<<"\nTerima Kasih";
 	return 0;
 }
